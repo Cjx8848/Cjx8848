@@ -15,5 +15,11 @@
 
 ---
 
+### 📈 GitHub Stats
+![Cjx8848's GitHub stats](https://github-stats-extended.vercel.app/api?username=Cjx8848&show_icons=true&theme=radical)
+
+### 📖 Top Langs
+![Cjx8848's Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Cjx8848)
+
 ### 🎮 Steam
 ![Steam Card](https://card.yuy1n.io/card/76561199136392743/ocean-dark,en,badge,group)
